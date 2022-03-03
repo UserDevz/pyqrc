@@ -16,6 +16,7 @@
 
     qrcode= PyQRCode.create('https://github.com/UserDevz/pyqrc')
 
+<h2 text align='center'>Criando o arquivo</h2>
 <p>Logo após, digite o nome do arquivo .png que será criado com o código qr:</p></br>
 
     qrcode.png('nome.png', scale=6)
